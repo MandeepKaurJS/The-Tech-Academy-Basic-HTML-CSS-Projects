@@ -113,7 +113,7 @@ input[type="password"]:focus{
 	Screen size less than 500px wide,
 	following styles will be applied
 ****************************************/
-@media (min-width:490px){
+@media (max-width:490px){
 	.login{
 		width:300px;
 		height:297px;
